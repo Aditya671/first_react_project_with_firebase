@@ -1,0 +1,140 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "BookTitle": "The Warrior Who Carried Life",
+      "BookAuthor": "Geoff Ryman",
+      "BookLike":false,
+      "BookPublished": "1985-03-21",
+      "BookDesc": "Book Description Two"
+    },
+    {
+      "BookTitle": "Battle Station",
+      "BookAuthor": "B.V. Larson",
+      "BookLike":true,
+      "BookPublished": "2002-05-02",
+      "BookDesc": "Book Description Three",
+      "id": 1
+    },
+    {
+      "BookTitle": "The Astral Mirror",
+      "BookAuthor": "Ben Bova",
+      "BookLike":false,
+      "BookPublished": "1985-10-15",
+      "BookDesc": "Book Description Four",
+      "id": 2
+    },
+    {
+      "BookTitle": "Dark Force Rising: Star Wars #2",
+      "BookAuthor": "Timothy Zahn",
+      "BookLike":true,
+      "BookPublished": "1992-05-01",
+      "BookDesc": "Book Description Five",
+      "id": 3
+    },
+    {
+      "BookTitle": "The Cave Girl",
+      "BookAuthor": "Edgar Rice Burroughs",
+      "BookLike":true,
+      "BookPublished": "1913-03-21",
+      "BookDesc": "Book Description Six",
+      "id": 4
+    },
+    {
+      "BookTitle": "The Ghost Pirates",
+      "BookAuthor": "William Hope Hodgson",
+      "BookLike":false,
+      "BookPublished": "2005-10-101",
+      "BookDesc": "Book Description Seven",
+      "id": 5
+    },
+    {
+      "BookTitle": "She and Allan",
+      "BookAuthor": "H. Rider Haggard",
+      "BookLike":true,
+      "BookPublished": "1921-00-00",
+      "BookDesc": "Book Description Eight",
+      "id": 6
+    },
+    {
+      "BookTitle": "The Salmon of Doubt",
+      "BookAuthor": "Douglas Adams",
+      "BookLike":false,
+      "BookPublished": "2002-05-00",
+      "BookDesc": "Book Description Nine",
+      "id": 7
+    },
+    {
+      "BookTitle": "The Heidi Chronicles",
+      "BookAuthor": "Wendy Wasserstein",
+      "BookLike":true,
+      "BookPublished": "1985-05-00",
+      "BookDesc": "Book Description Ten",
+      "id": 8
+    },
+    {
+      "BookTitle": "Rising from the Plains",
+      "BookAuthor": "John McPhee",
+      "BookLike":false,
+      "BookPublished": "1985-05-00",
+      "BookDesc": "Book Description Eleven",
+      "id": 9
+    },
+    {
+      "BookTitle": "The Untouchable",
+      "BookAuthor": "John Banville",
+      "BookLike":true,
+      "BookPublished": "1987-11-01",
+      "BookDesc": "Book Description Twelve",
+      "id": 10
+    },
+    {
+      "BookTitle": "The Ravishing of Lol Stein",
+      "BookAuthor": "Marguerite Duras/Richard Seever",
+      "BookLike":false,
+      "BookPublished": "1986-03-12",
+      "BookDesc": "Lol Stein's comfortable married life is disrupted when she returns to her hometown and recalls how she was abandoned by a former fiancé. ",
+      "id": 11
+    },
+    {
+      "BookTitle": "When the Stars Go Dark",
+      "BookAuthor": "Paula McLain",
+      "BookLike":true,
+      "BookPublished": "2021-04-13",
+      "BookDesc": "Anna Hart is a missing persons detective in San Francisco. When tragedy strikes her personal life, Anna, desperate and numb, flees to the Northern California village of Mendocino to grieve. She lived there as a child with her beloved foster parents, and now she believes it might be the only place left for her",
+      "id": 12
+    },
+    {
+      "BookTitle": "What Comes After",
+      "BookAuthor": "JoAnne Tompkins",
+      "BookLike":false,
+      "BookPublished": "2021-04-13",
+      "BookDesc": "After the shocking death of two teenage boys tears apart a community in the Pacific Northwest, a mysterious pregnant girl emerges out of the woods and into the lives of those same boys' families--a moving and hopeful novel about forgiveness and human connection.",
+      "id": 13
+    },
+    {
+      "BookTitle": "Too Good to Be True",
+      "BookAuthor": "Carola Lovering",
+      "BookLike":true,
+      "BookPublished": "2021-03-02",
+      "BookDesc": "Skye Starling is overjoyed when her boyfriend, Burke Michaels, proposes after a whirlwind courtship. Though Skye seems to have the world at her fingertips―she’s smart, beautiful, and from a well-off family―she’s also battled crippling OCD ever since her mother’s death when she was eleven, and her romantic relationships have suffered as a result.",
+      "id": 14
+    },
+    {
+      "BookTitle": "His eyes were open",
+      "BookAuthor": "Rudolf Vieth",
+      "BookLike":false,
+      "BookPublished": "2021-05-21",
+      "BookDesc": "Brutality is scary, genius is scarier. In this work we see Alexis go from a murderess with a conscious to a cold blooded killer that will kill anyone that crosses her path.",
+      "id": 15
+    },
+    {
+      "BookTitle": "Harry Potter and the Sorcerer's Stone",
+      "BookAuthor": "J.K. Rowling",
+      "BookLike":true,
+      "BookPublished": "2003-11-01",
+      "BookDesc": "Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.",
+      "id": 16
+    }
+  ]
+}
